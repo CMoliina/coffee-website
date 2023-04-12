@@ -1,3 +1,3 @@
 # Coffee Website ☕
 A responsive website for a cafeteria. Frontend practice.
-Tools: HTML - JS - CSS 
+- Tools: HTML - JS - CSS 
